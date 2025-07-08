@@ -1,0 +1,136 @@
+[26-Aug-2024 12:16:48 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pesv2.m4uflix.pw/admin/add_evaluation_type.php on line 73
+[26-Aug-2024 12:16:48 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pesv2.m4uflix.pw/admin/add_evaluation_type.php on line 74
+[26-Aug-2024 12:46:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pesv2.m4uflix.pw/admin/add_evaluation_type.php on line 73
+[26-Aug-2024 12:46:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pesv2.m4uflix.pw/admin/add_evaluation_type.php on line 74
+[30-Aug-2024 06:46:53 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pes.nextgenz.tech/admin/add_evaluation_type.php on line 73
+[30-Aug-2024 06:46:53 UTC] PHP Notice:  Only variables should be passed by reference in /home/muflixpw/pes.nextgenz.tech/admin/add_evaluation_type.php on line 74
+[05-Sep-2024 09:19:16 UTC] PHP Warning:  Use of undefined constant auth - assumed 'auth' (this will throw an Error in a future version of PHP) in /home/muflixpw/pes.nextgenz.tech/admin/add_batch.php on line 3
+[05-Sep-2024 09:19:16 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/muflixpw/pes.nextgenz.tech/admin/add_batch.php on line 3
+[05-Sep-2024 09:19:16 UTC] PHP Warning:  include(authphp): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/add_batch.php on line 3
+[05-Sep-2024 09:19:16 UTC] PHP Warning:  include(authphp): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/add_batch.php on line 3
+[05-Sep-2024 09:19:16 UTC] PHP Warning:  include(): Failed opening 'authphp' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/add_batch.php on line 3
+[25-Sep-2024 08:15:20 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:20 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:20 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:20 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 57
+[25-Sep-2024 08:15:20 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 59
+[25-Sep-2024 08:15:20 UTC] PHP Notice:  Undefined variable: row in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:20 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:24 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:24 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:24 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:24 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 57
+[25-Sep-2024 08:15:24 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 59
+[25-Sep-2024 08:15:24 UTC] PHP Notice:  Undefined variable: row in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:24 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:25 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:25 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:25 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:25 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 57
+[25-Sep-2024 08:15:25 UTC] PHP Notice:  Undefined variable: name in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 59
+[25-Sep-2024 08:15:25 UTC] PHP Notice:  Undefined variable: row in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/admin/header.php on line 60
+[25-Sep-2024 08:15:25 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:49 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:49 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:15:49 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:15:49 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:51 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:51 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:51 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:15:51 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:15:51 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:15:51 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:10 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:10 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:10 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:10 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:16:10 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:16:10 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:11 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:11 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:11 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:11 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:16:11 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:16:11 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:16 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:16 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:16 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:16 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:16:16 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:16:16 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:47 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:47 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:47 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:47 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:16:47 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:16:47 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:49 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 3
+[25-Sep-2024 08:16:49 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 5
+[25-Sep-2024 08:16:49 UTC] PHP Notice:  Undefined variable: title in /home/muflixpw/pes.nextgenz.tech/head.php on line 9
+[25-Sep-2024 08:16:49 UTC] PHP Notice:  Undefined variable: conn in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[25-Sep-2024 08:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/view-analytics.php on line 19
+[20-Oct-2024 05:06:05 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 69
+[20-Oct-2024 05:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 75
+[22-Oct-2024 03:23:49 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 69
+[22-Oct-2024 03:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 75
+[22-Oct-2024 03:23:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 69
+[22-Oct-2024 03:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 75
+[22-Oct-2024 03:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/admin/get_marks_data.php on line 99

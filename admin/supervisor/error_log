@@ -1,0 +1,70 @@
+[28-Aug-2024 11:06:53 UTC] Student Roll Number: B22CS005
+[28-Aug-2024 11:06:53 UTC] Student Remarks: 
+[28-Aug-2024 11:06:53 UTC] Student Roll Number: B22CS006
+[28-Aug-2024 11:06:53 UTC] Student Remarks: 
+[28-Aug-2024 11:06:53 UTC] Insert failed: Duplicate entry '0' for key 'PRIMARY'
+[28-Aug-2024 12:48:58 UTC] Student Roll Number: B22CS005
+[28-Aug-2024 12:48:58 UTC] Student Remarks: 
+[28-Aug-2024 12:48:58 UTC] Student Roll Number: B22CS006
+[28-Aug-2024 12:48:58 UTC] Student Remarks: 
+[28-Aug-2024 12:48:58 UTC] Insert failed: Duplicate entry '0' for key 'PRIMARY'
+[28-Aug-2024 12:57:32 UTC] Student Roll Number: B22CS005
+[28-Aug-2024 12:57:32 UTC] Student Remarks: 
+[28-Aug-2024 12:57:32 UTC] Student Roll Number: B22CS006
+[28-Aug-2024 12:57:32 UTC] Student Remarks: 
+[28-Aug-2024 12:57:32 UTC] Insert failed: Duplicate entry '0' for key 'PRIMARY'
+[28-Aug-2024 12:58:16 UTC] Student Roll Number: B22CS005
+[28-Aug-2024 12:58:16 UTC] Student Remarks: 
+[28-Aug-2024 12:58:16 UTC] Student Roll Number: B22CS006
+[28-Aug-2024 12:58:16 UTC] Student Remarks: 
+[28-Aug-2024 12:58:16 UTC] Insert failed: Duplicate entry '0' for key 'PRIMARY'
+[28-Aug-2024 13:09:50 UTC] Student Roll Number: B22CS005
+[28-Aug-2024 13:09:50 UTC] Student Remarks: 
+[28-Aug-2024 13:09:50 UTC] Student Roll Number: B22CS006
+[28-Aug-2024 13:09:50 UTC] Student Remarks: 
+[28-Aug-2024 15:33:39 UTC] Student Roll Number: B22CS001
+[28-Aug-2024 15:33:39 UTC] Student Remarks: 
+[28-Aug-2024 15:33:39 UTC] Student Roll Number: B22CS002
+[28-Aug-2024 15:33:39 UTC] Student Remarks: 
+[28-Aug-2024 15:33:39 UTC] Student Roll Number: B22CS003
+[28-Aug-2024 15:33:39 UTC] Student Remarks: 
+[28-Aug-2024 15:33:39 UTC] Student Roll Number: B22CS004
+[28-Aug-2024 15:33:39 UTC] Student Remarks: 
+[28-Aug-2024 15:35:13 UTC] Student Roll Number: B22CS001
+[28-Aug-2024 15:35:13 UTC] Student Remarks: 
+[28-Aug-2024 15:35:13 UTC] Student Roll Number: B22CS002
+[28-Aug-2024 15:35:13 UTC] Student Remarks: 
+[28-Aug-2024 15:35:13 UTC] Student Roll Number: B22CS003
+[28-Aug-2024 15:35:13 UTC] Student Remarks: 
+[28-Aug-2024 15:35:13 UTC] Student Roll Number: B22CS004
+[28-Aug-2024 15:35:13 UTC] Student Remarks: 
+[28-Aug-2024 15:36:07 UTC] Student Roll Number: B22CS001
+[28-Aug-2024 15:36:07 UTC] Student Remarks: 
+[28-Aug-2024 15:36:07 UTC] Student Roll Number: B22CS002
+[28-Aug-2024 15:36:07 UTC] Student Remarks: 
+[28-Aug-2024 15:36:07 UTC] Student Roll Number: B22CS003
+[28-Aug-2024 15:36:07 UTC] Student Remarks: 
+[28-Aug-2024 15:36:07 UTC] Student Roll Number: B22CS004
+[28-Aug-2024 15:36:07 UTC] Student Remarks: 
+[30-Aug-2024 08:39:30 UTC] Student Roll Number: B21AI001
+[30-Aug-2024 08:39:30 UTC] Student Remarks: good
+[30-Aug-2024 08:39:30 UTC] Student Roll Number: B21AI033
+[30-Aug-2024 08:39:30 UTC] Student Remarks: 
+[30-Aug-2024 08:39:30 UTC] Student Roll Number: B21AI047
+[30-Aug-2024 08:39:30 UTC] Student Remarks: 
+[30-Aug-2024 08:39:30 UTC] Student Roll Number: B22AI071L
+[30-Aug-2024 08:39:30 UTC] Student Remarks: 
+[17-Sep-2024 07:04:14 UTC] Student Roll Number: B21AI027
+[17-Sep-2024 07:04:14 UTC] Student Remarks: 36
+[17-Sep-2024 07:04:14 UTC] Student Roll Number: B21AI037
+[17-Sep-2024 07:04:14 UTC] Student Remarks: 36
+[17-Sep-2024 07:04:14 UTC] Student Roll Number: B21AI064
+[17-Sep-2024 07:04:14 UTC] Student Remarks: 36
+[17-Sep-2024 07:04:14 UTC] Student Roll Number: B21AI065
+[17-Sep-2024 07:04:14 UTC] Student Remarks: 34
+[19-Sep-2024 12:26:00 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 57
+[19-Sep-2024 12:26:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 61
+[19-Sep-2024 12:26:04 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 57
+[19-Sep-2024 12:26:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 61
+[19-Sep-2024 12:26:13 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 57
+[19-Sep-2024 12:26:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/muflixpw/pes.nextgenz.tech/supervisor/getedit_marks_details.php on line 61

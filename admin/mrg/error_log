@@ -1,0 +1,292 @@
+[19-Sep-2024 12:11:19 UTC] PHP Notice:  Undefined variable: result_evaluator in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 16
+[19-Sep-2024 12:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 16
+[19-Sep-2024 12:11:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 39
+[19-Sep-2024 12:16:19 UTC] PHP Notice:  Undefined index: sub_parts_mrg in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 45
+[19-Sep-2024 12:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:43 UTC] PHP Notice:  Undefined index: sub_parts_mrg in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 45
+[19-Sep-2024 12:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[19-Sep-2024 12:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muflixpw/pes.nextgenz.tech/mrg/getedit_marks_details.php on line 99
+[21-Sep-2024 05:37:33 UTC] Student Roll Number: B21AI003
+[21-Sep-2024 05:37:33 UTC] Student Remarks: 32
+[21-Sep-2024 05:37:33 UTC] Student Roll Number: B21AI012
+[21-Sep-2024 05:37:33 UTC] Student Remarks: 34
+[21-Sep-2024 05:37:33 UTC] Student Roll Number: B21AI016
+[21-Sep-2024 05:37:33 UTC] Student Remarks: 36
+[21-Sep-2024 05:37:33 UTC] Student Roll Number: B21AI036
+[21-Sep-2024 05:37:33 UTC] Student Remarks: 36
+[21-Sep-2024 05:37:33 UTC] Student Roll Number: B21AI053
+[21-Sep-2024 05:37:33 UTC] Student Remarks: 39
+[21-Sep-2024 05:38:41 UTC] Student Roll Number: B21AI003
+[21-Sep-2024 05:38:41 UTC] Student Remarks: 40
+[21-Sep-2024 05:38:41 UTC] Student Roll Number: B21AI012
+[21-Sep-2024 05:38:41 UTC] Student Remarks: 38
+[21-Sep-2024 05:38:41 UTC] Student Roll Number: B21AI016
+[21-Sep-2024 05:38:41 UTC] Student Remarks: 38
+[21-Sep-2024 05:38:41 UTC] Student Roll Number: B21AI036
+[21-Sep-2024 05:38:41 UTC] Student Remarks: 36
+[21-Sep-2024 05:38:41 UTC] Student Roll Number: B21AI053
+[21-Sep-2024 05:38:41 UTC] Student Remarks: 39
+[21-Sep-2024 05:44:36 UTC] Student Roll Number: B21AI015
+[21-Sep-2024 05:44:36 UTC] Student Remarks: 35
+[21-Sep-2024 05:44:36 UTC] Student Roll Number: B21AI023
+[21-Sep-2024 05:44:36 UTC] Student Remarks: 39
+[21-Sep-2024 05:44:37 UTC] Student Roll Number: B21AI031
+[21-Sep-2024 05:44:37 UTC] Student Remarks: 40
+[21-Sep-2024 05:44:37 UTC] Student Roll Number: B21AI062
+[21-Sep-2024 05:44:37 UTC] Student Remarks: 0
+[21-Sep-2024 05:44:37 UTC] Student Roll Number: B21AI063
+[21-Sep-2024 05:44:37 UTC] Student Remarks: 32
+[21-Sep-2024 05:45:20 UTC] Student Roll Number: B21AI015
+[21-Sep-2024 05:45:20 UTC] Student Remarks: 35
+[21-Sep-2024 05:45:20 UTC] Student Roll Number: B21AI023
+[21-Sep-2024 05:45:20 UTC] Student Remarks: 39
+[21-Sep-2024 05:45:20 UTC] Student Roll Number: B21AI031
+[21-Sep-2024 05:45:20 UTC] Student Remarks: 40
+[21-Sep-2024 05:45:20 UTC] Student Roll Number: B21AI062
+[21-Sep-2024 05:45:20 UTC] Student Remarks: 0
+[21-Sep-2024 05:45:20 UTC] Student Roll Number: B21AI063
+[21-Sep-2024 05:45:20 UTC] Student Remarks: 32
+[21-Sep-2024 05:50:01 UTC] Student Roll Number: B21AI006
+[21-Sep-2024 05:50:01 UTC] Student Remarks: 30
+[21-Sep-2024 05:50:01 UTC] Student Roll Number: B21AI025
+[21-Sep-2024 05:50:01 UTC] Student Remarks: 39
+[21-Sep-2024 05:50:01 UTC] Student Roll Number: B21AI049
+[21-Sep-2024 05:50:01 UTC] Student Remarks: 36
+[21-Sep-2024 05:50:01 UTC] Student Roll Number: B21AI054
+[21-Sep-2024 05:50:01 UTC] Student Remarks: 36
+[21-Sep-2024 05:51:02 UTC] Student Roll Number: B21AI006
+[21-Sep-2024 05:51:02 UTC] Student Remarks: 30
+[21-Sep-2024 05:51:02 UTC] Student Roll Number: B21AI025
+[21-Sep-2024 05:51:02 UTC] Student Remarks: 39
+[21-Sep-2024 05:51:02 UTC] Student Roll Number: B21AI049
+[21-Sep-2024 05:51:02 UTC] Student Remarks: 36
+[21-Sep-2024 05:51:02 UTC] Student Roll Number: B21AI054
+[21-Sep-2024 05:51:02 UTC] Student Remarks: 36
+[21-Sep-2024 05:56:05 UTC] Student Roll Number: B21AI018
+[21-Sep-2024 05:56:05 UTC] Student Remarks: 34
+[21-Sep-2024 05:56:05 UTC] Student Roll Number: B21AI024
+[21-Sep-2024 05:56:05 UTC] Student Remarks: 38
+[21-Sep-2024 05:56:05 UTC] Student Roll Number: B21AI057
+[21-Sep-2024 05:56:05 UTC] Student Remarks: 36
+[21-Sep-2024 05:56:05 UTC] Student Roll Number: B21AI059
+[21-Sep-2024 05:56:05 UTC] Student Remarks: 40
+[21-Sep-2024 06:01:57 UTC] Student Roll Number: B21AI008
+[21-Sep-2024 06:01:57 UTC] Student Remarks: 36
+[21-Sep-2024 06:01:57 UTC] Student Roll Number: B21AI011
+[21-Sep-2024 06:01:57 UTC] Student Remarks: 38
+[21-Sep-2024 06:01:57 UTC] Student Roll Number: B21AI013
+[21-Sep-2024 06:01:57 UTC] Student Remarks: 40
+[21-Sep-2024 06:01:57 UTC] Student Roll Number: B21AI019
+[21-Sep-2024 06:01:57 UTC] Student Remarks: 38
+[21-Sep-2024 06:03:19 UTC] Student Roll Number: B21AI018
+[21-Sep-2024 06:03:19 UTC] Student Remarks: 34
+[21-Sep-2024 06:03:19 UTC] Student Roll Number: B21AI024
+[21-Sep-2024 06:03:19 UTC] Student Remarks: 38
+[21-Sep-2024 06:03:19 UTC] Student Roll Number: B21AI057
+[21-Sep-2024 06:03:19 UTC] Student Remarks: 36
+[21-Sep-2024 06:03:19 UTC] Student Roll Number: B21AI059
+[21-Sep-2024 06:03:19 UTC] Student Remarks: 40
+[21-Sep-2024 06:07:32 UTC] Student Roll Number: B21AI008
+[21-Sep-2024 06:07:32 UTC] Student Remarks: 36
+[21-Sep-2024 06:07:32 UTC] Student Roll Number: B21AI011
+[21-Sep-2024 06:07:32 UTC] Student Remarks: 38
+[21-Sep-2024 06:07:32 UTC] Student Roll Number: B21AI013
+[21-Sep-2024 06:07:32 UTC] Student Remarks: 40
+[21-Sep-2024 06:07:32 UTC] Student Roll Number: B21AI019
+[21-Sep-2024 06:07:32 UTC] Student Remarks: 38
+[21-Sep-2024 06:09:13 UTC] Student Roll Number: B21AI002
+[21-Sep-2024 06:09:13 UTC] Student Remarks: 36
+[21-Sep-2024 06:09:13 UTC] Student Roll Number: B21AI039
+[21-Sep-2024 06:09:13 UTC] Student Remarks: 32
+[21-Sep-2024 06:09:13 UTC] Student Roll Number: B21AI043
+[21-Sep-2024 06:09:13 UTC] Student Remarks: 36
+[21-Sep-2024 06:09:13 UTC] Student Roll Number: B21AI046
+[21-Sep-2024 06:09:13 UTC] Student Remarks: 36
+[21-Sep-2024 06:15:59 UTC] Student Roll Number: B21AI007
+[21-Sep-2024 06:15:59 UTC] Student Remarks: 36
+[21-Sep-2024 06:15:59 UTC] Student Roll Number: B21AI042
+[21-Sep-2024 06:15:59 UTC] Student Remarks: 36
+[21-Sep-2024 06:15:59 UTC] Student Roll Number: B22AI068L
+[21-Sep-2024 06:15:59 UTC] Student Remarks: 36
+[21-Sep-2024 06:15:59 UTC] Student Roll Number: B22AI070L
+[21-Sep-2024 06:15:59 UTC] Student Remarks: 36
+[21-Sep-2024 06:16:23 UTC] Student Roll Number: B21AI002
+[21-Sep-2024 06:16:23 UTC] Student Remarks: 36
+[21-Sep-2024 06:16:23 UTC] Student Roll Number: B21AI039
+[21-Sep-2024 06:16:23 UTC] Student Remarks: 32
+[21-Sep-2024 06:16:23 UTC] Student Roll Number: B21AI043
+[21-Sep-2024 06:16:23 UTC] Student Remarks: 36
+[21-Sep-2024 06:16:23 UTC] Student Roll Number: B21AI046
+[21-Sep-2024 06:16:23 UTC] Student Remarks: 36
+[21-Sep-2024 06:20:48 UTC] Student Roll Number: B21AI007
+[21-Sep-2024 06:20:48 UTC] Student Remarks: 36
+[21-Sep-2024 06:20:48 UTC] Student Roll Number: B21AI042
+[21-Sep-2024 06:20:48 UTC] Student Remarks: 36
+[21-Sep-2024 06:20:48 UTC] Student Roll Number: B22AI068L
+[21-Sep-2024 06:20:48 UTC] Student Remarks: 36
+[21-Sep-2024 06:20:48 UTC] Student Roll Number: B22AI070L
+[21-Sep-2024 06:20:48 UTC] Student Remarks: 36
+[21-Sep-2024 06:26:19 UTC] Student Roll Number: B21AI009
+[21-Sep-2024 06:26:19 UTC] Student Remarks: 32
+[21-Sep-2024 06:26:19 UTC] Student Roll Number: B21AI020
+[21-Sep-2024 06:26:19 UTC] Student Remarks: 32
+[21-Sep-2024 06:26:19 UTC] Student Roll Number: B21AI028
+[21-Sep-2024 06:26:19 UTC] Student Remarks: 32
+[21-Sep-2024 06:26:19 UTC] Student Roll Number: B21AI040
+[21-Sep-2024 06:26:19 UTC] Student Remarks: 32
+[21-Sep-2024 06:26:33 UTC] Student Roll Number: B21AI030
+[21-Sep-2024 06:26:33 UTC] Student Remarks: 
+[21-Sep-2024 06:26:33 UTC] Student Roll Number: B21AI050
+[21-Sep-2024 06:26:33 UTC] Student Remarks: 
+[21-Sep-2024 06:26:33 UTC] Student Roll Number: B21AI051
+[21-Sep-2024 06:26:33 UTC] Student Remarks: 
+[21-Sep-2024 06:26:33 UTC] Student Roll Number: B21AI058
+[21-Sep-2024 06:26:33 UTC] Student Remarks: 
+[21-Sep-2024 06:28:09 UTC] Student Roll Number: B21AI009
+[21-Sep-2024 06:28:09 UTC] Student Remarks: 32
+[21-Sep-2024 06:28:09 UTC] Student Roll Number: B21AI020
+[21-Sep-2024 06:28:09 UTC] Student Remarks: 32
+[21-Sep-2024 06:28:09 UTC] Student Roll Number: B21AI028
+[21-Sep-2024 06:28:09 UTC] Student Remarks: 32
+[21-Sep-2024 06:28:09 UTC] Student Roll Number: B21AI040
+[21-Sep-2024 06:28:09 UTC] Student Remarks: 32
+[21-Sep-2024 06:41:26 UTC] Student Roll Number: B21AI004
+[21-Sep-2024 06:41:26 UTC] Student Remarks: 36
+[21-Sep-2024 06:41:26 UTC] Student Roll Number: B21AI032
+[21-Sep-2024 06:41:26 UTC] Student Remarks: 36
+[21-Sep-2024 06:41:26 UTC] Student Roll Number: B21AI034
+[21-Sep-2024 06:41:26 UTC] Student Remarks: 36
+[21-Sep-2024 06:41:26 UTC] Student Roll Number: B21AI045
+[21-Sep-2024 06:41:26 UTC] Student Remarks: 36
+[21-Sep-2024 06:41:48 UTC] Student Roll Number: B21AI030
+[21-Sep-2024 06:41:48 UTC] Student Remarks: 0
+[21-Sep-2024 06:41:48 UTC] Student Roll Number: B21AI050
+[21-Sep-2024 06:41:48 UTC] Student Remarks: 0
+[21-Sep-2024 06:41:48 UTC] Student Roll Number: B21AI051
+[21-Sep-2024 06:41:48 UTC] Student Remarks: 0
+[21-Sep-2024 06:41:48 UTC] Student Roll Number: B21AI058
+[21-Sep-2024 06:41:48 UTC] Student Remarks: 0
+[21-Sep-2024 06:44:27 UTC] Student Roll Number: B21AI001
+[21-Sep-2024 06:44:27 UTC] Student Remarks: 40
+[21-Sep-2024 06:44:27 UTC] Student Roll Number: B21AI033
+[21-Sep-2024 06:44:27 UTC] Student Remarks: 40
+[21-Sep-2024 06:44:27 UTC] Student Roll Number: B21AI047
+[21-Sep-2024 06:44:27 UTC] Student Remarks: 40
+[21-Sep-2024 06:44:27 UTC] Student Roll Number: B22AI071L
+[21-Sep-2024 06:44:27 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:07 UTC] Student Roll Number: B21AI004
+[21-Sep-2024 06:48:07 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:07 UTC] Student Roll Number: B21AI032
+[21-Sep-2024 06:48:07 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:07 UTC] Student Roll Number: B21AI034
+[21-Sep-2024 06:48:07 UTC] Student Remarks: 
+[21-Sep-2024 06:48:07 UTC] Student Roll Number: B21AI045
+[21-Sep-2024 06:48:07 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:12 UTC] Student Roll Number: B21AI021
+[21-Sep-2024 06:48:12 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:12 UTC] Student Roll Number: B21AI052
+[21-Sep-2024 06:48:12 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:12 UTC] Student Roll Number: B22AI066L
+[21-Sep-2024 06:48:12 UTC] Student Remarks: 36
+[21-Sep-2024 06:48:12 UTC] Student Roll Number: B22AI069L
+[21-Sep-2024 06:48:12 UTC] Student Remarks: 36
+[21-Sep-2024 06:53:41 UTC] Student Roll Number: B21AI029
+[21-Sep-2024 06:53:41 UTC] Student Remarks: 36
+[21-Sep-2024 06:53:41 UTC] Student Roll Number: B21AI048
+[21-Sep-2024 06:53:41 UTC] Student Remarks: 36
+[21-Sep-2024 06:53:41 UTC] Student Roll Number: B21AI060
+[21-Sep-2024 06:53:41 UTC] Student Remarks: 36
+[21-Sep-2024 06:53:41 UTC] Student Roll Number: B22AI067L
+[21-Sep-2024 06:53:41 UTC] Student Remarks: 36
+[21-Sep-2024 06:54:35 UTC] Student Roll Number: B21AI001
+[21-Sep-2024 06:54:35 UTC] Student Remarks: 40
+[21-Sep-2024 06:54:35 UTC] Student Roll Number: B21AI033
+[21-Sep-2024 06:54:35 UTC] Student Remarks: 40
+[21-Sep-2024 06:54:35 UTC] Student Roll Number: B21AI047
+[21-Sep-2024 06:54:35 UTC] Student Remarks: 40
+[21-Sep-2024 06:54:35 UTC] Student Roll Number: B22AI071L
+[21-Sep-2024 06:54:35 UTC] Student Remarks: 36
+[21-Sep-2024 06:56:56 UTC] Student Roll Number: B21AI041
+[21-Sep-2024 06:56:56 UTC] Student Remarks: 36
+[21-Sep-2024 06:56:56 UTC] Student Roll Number: B21AI044
+[21-Sep-2024 06:56:56 UTC] Student Remarks: 36
+[21-Sep-2024 06:56:56 UTC] Student Roll Number: B21AI055
+[21-Sep-2024 06:56:56 UTC] Student Remarks: 36
+[21-Sep-2024 06:56:56 UTC] Student Roll Number: B21AI056
+[21-Sep-2024 06:56:56 UTC] Student Remarks: 36
+[21-Sep-2024 07:01:37 UTC] Student Roll Number: B21AI005
+[21-Sep-2024 07:01:37 UTC] Student Remarks: 36
+[21-Sep-2024 07:01:37 UTC] Student Roll Number: B21AI010
+[21-Sep-2024 07:01:37 UTC] Student Remarks: 36
+[21-Sep-2024 07:01:37 UTC] Student Roll Number: B21AI022
+[21-Sep-2024 07:01:37 UTC] Student Remarks: 36
+[21-Sep-2024 07:01:37 UTC] Student Roll Number: B21AI061
+[21-Sep-2024 07:01:37 UTC] Student Remarks: 36
+[21-Sep-2024 07:34:29 UTC] Student Roll Number: B21AI027
+[21-Sep-2024 07:34:29 UTC] Student Remarks: 38
+[21-Sep-2024 07:34:29 UTC] Student Roll Number: B21AI037
+[21-Sep-2024 07:34:29 UTC] Student Remarks: 36
+[21-Sep-2024 07:34:29 UTC] Student Roll Number: B21AI064
+[21-Sep-2024 07:34:29 UTC] Student Remarks: 36
+[21-Sep-2024 07:34:29 UTC] Student Roll Number: B21AI065
+[21-Sep-2024 07:34:29 UTC] Student Remarks: 0
+[21-Sep-2024 07:39:11 UTC] Student Roll Number: B21AI017
+[21-Sep-2024 07:39:11 UTC] Student Remarks: 0
+[21-Sep-2024 07:39:11 UTC] Student Roll Number: B21AI026
+[21-Sep-2024 07:39:11 UTC] Student Remarks: 36
+[21-Sep-2024 07:39:11 UTC] Student Roll Number: B21AI035
+[21-Sep-2024 07:39:11 UTC] Student Remarks: 36
+[21-Sep-2024 07:39:11 UTC] Student Roll Number: B21AI038
+[21-Sep-2024 07:39:11 UTC] Student Remarks: 36
+[24-Jan-2025 17:15:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:15:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:15:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 30
+[24-Jan-2025 17:22:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:22:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:22:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 30
+[24-Jan-2025 17:25:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 30
+[24-Jan-2025 17:25:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:25:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:25:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 30
+[24-Jan-2025 17:26:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:26:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 23
+[24-Jan-2025 17:26:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/muflixpw/pes.nextgenz.tech/mrg/get_student_marks.php on line 30
